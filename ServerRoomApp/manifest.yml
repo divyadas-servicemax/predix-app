@@ -1,0 +1,7 @@
+---
+applications:
+  - name: predix_srm_divs
+    buildpack: java_buildpack
+    path: target/predix-srm-1.0.0.jar
+services:
+    - srm-postgres

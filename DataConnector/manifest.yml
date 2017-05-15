@@ -1,0 +1,7 @@
+---
+applications:
+  - name: divya_CustomDataConnector
+    buildpack: java-buildpack
+    path: target/CustomDataConnector-1.0.0.jar
+services:
+    - srm-postgres
