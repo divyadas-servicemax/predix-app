@@ -1,10 +1,13 @@
 *.class
-
+/target/
+/.project
+/.classpath
+/.settings
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 .project
 .settings
-.DS_Store
+*.DS_Store
 # Package Files #
 *.jar
 *.war
