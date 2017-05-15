@@ -1,2 +1,3 @@
 # predix-app
-Predix : server room monitoring solution
+Server room monitoring solution  : ServerRoom App
+Custom data connector : DataConnector
